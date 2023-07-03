@@ -15,7 +15,7 @@ Funciones principales:
 Salto entre nodos, ya que el juego permite a los jugadores realizar saltos entre nodos, simulando su movimiento a través del grafo de nodos. Comunicación entre nodos, los nodos se comunican entre sí enviando mensajes JSON codificados a través de conexiones TCP. Los mensajes contienen información sobre los comandos, el jugador actual y los nodos vecinos. La gestión de equipos, Cada jugador está asociado a un equipo y compite contra el equipo contrario para llegar al nodo final. El juego maneja la lógica de los equipos y determina los ganadores y perdedores basándose en las acciones de los jugadores.
 
 Imagen Referencial
-![image](https://github.com/GustavoBecerra1109/pcd-TF/assets/54639476/c03646da-8131-4778-92da-c27d57fd04d0)4
+![image](https://github.com/GustavoBecerra1109/pcd-TF/assets/54639476/c03646da-8131-4778-92da-c27d57fd04d0)
 
 Conclusión:
 Aunque no se llego a concluir por problemas en la visualización, se logro intentar la comunicación con http y tcp. Además, el código se tuvo que cambiar muchas veces para intentar que el HTTP pueda hacer la conexión correcta. Se puede agregar más cosas ya que la GUI estab ya creada y faltó terminar de probar que los JSON funcionarán correctamente con la GUI creada.
